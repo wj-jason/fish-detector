@@ -67,7 +67,7 @@ def main(input_path, interval):
 
 if __name__ == "__main__":
     if len(sys.argv) != 3:
-        print("Usage: python extract_frames.py <input_dir> <interval>")
+        print("Usage: python3 -m utils.extract <input_dir> <interval>")
         sys.exit(1)
 
     parser = argparse.ArgumentParser(description='Extract frames from .mp4 files at a given interval.')
