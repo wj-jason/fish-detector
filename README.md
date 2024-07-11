@@ -8,7 +8,7 @@ This is where I can place any refactored tools for ease of use.
 
 ## First steps
 
-1. Clone this repsoitory (use one of the following commands)
+1. From your terminal, clone this repsoitory (use one of the following commands)
 
 ```
 git clone https://github.com/wj-jason/fish-detector.git
